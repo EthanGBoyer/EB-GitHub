@@ -12,6 +12,8 @@
             <% EB_Basic_App_GitHub.Class1 tp = new EB_Basic_App_GitHub.Class1(); %> 
               
             <%=tp.Name %> 
+
+            Hello World 
         </div>
     </form>
 </body>
